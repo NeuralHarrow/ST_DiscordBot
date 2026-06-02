@@ -1,15 +1,1 @@
-{
-  "1434404921213714485": {
-    "id": "1434404921213714485",
-    "name": "Unknown Thread",
-    "prefix": null,
-    "members": [],
-    "banned": [],
-    "settings": {
-      "welcomeMessage": true,
-      "leaveMessage": true,
-      "antiSpam": false
-    },
-    "createdAt": 1762889206663
-  }
-}
+{}
